@@ -3,7 +3,7 @@ lockfileVersion: 5.3
 specifiers:
   '@changesets/cli': 2.23.2
   '@swc-node/register': 1.5.1
-  '@types/debug': 4.1.7
+  '@types/debug': 4.1.12
   '@types/didyoumean': 1.2.0
   '@types/fs-extra': 9.0.13
   '@types/node-fetch': 2.6.2
@@ -42,7 +42,7 @@ dependencies:
 devDependencies:
   '@changesets/cli': 2.23.2
   '@swc-node/register': 1.5.1_typescript@4.7.4
-  '@types/debug': 4.1.7
+  '@types/debug': 4.1.12
   '@types/didyoumean': 1.2.0
   '@types/fs-extra': 9.0.13
   '@types/node-fetch': 2.6.2
@@ -553,8 +553,8 @@ packages:
     resolution: {integrity: sha512-/zPMqDkzSZ8t3VtxOa4KPq7uzzW978M9Tvh+j7GHKuo6k6GTLxPJ4J5gE5cjfJ26pnXst0N5Hax8Sr0T2Mi9zQ==}
     dev: true
 
-  /@types/debug/4.1.7:
-    resolution: {integrity: sha512-9AonUzyTjXXhEOa0DnqpzZi6VHlqKMswga9EXjpXnnqxwLtdvPPtlO8evrI5D9S6asFRCQ6v+wpiUKbw+vKqyg==}
+  /@types/debug/4.1.12:
+    resolution: {integrity: sha512-vIChWdVG3LG1SMxEvI/AK+FWJthlrqlTu7fbrlywTkkaONwk/UAGaULXRlf8vkzFBLVm0zkMdCquhL5aOjhXPQ==}
     dependencies:
       '@types/ms': 0.7.31
     dev: true
