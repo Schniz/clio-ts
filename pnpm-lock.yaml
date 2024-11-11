@@ -4,7 +4,7 @@ specifiers:
   '@changesets/cli': 2.23.2
   '@swc-node/register': 1.5.1
   '@types/debug': 4.1.7
-  '@types/didyoumean': 1.2.0
+  '@types/didyoumean': 1.2.3
   '@types/fs-extra': 9.0.13
   '@types/node-fetch': 2.6.2
   '@types/request': 2.48.8
@@ -43,7 +43,7 @@ devDependencies:
   '@changesets/cli': 2.23.2
   '@swc-node/register': 1.5.1_typescript@4.7.4
   '@types/debug': 4.1.7
-  '@types/didyoumean': 1.2.0
+  '@types/didyoumean': 1.2.3
   '@types/fs-extra': 9.0.13
   '@types/node-fetch': 2.6.2
   '@types/request': 2.48.8
@@ -559,8 +559,8 @@ packages:
       '@types/ms': 0.7.31
     dev: true
 
-  /@types/didyoumean/1.2.0:
-    resolution: {integrity: sha512-3QMjBOgPEXaOkhfQxiGgzn6JpofPSi8Z0RmQq65FIpZv4kCPT/jvYiYrwqaUrfiHZmwwRvyYJjJmoKopbvLPQw==}
+  /@types/didyoumean/1.2.3:
+    resolution: {integrity: sha512-jmogYbzJs7gehniakiGVlKCxrEqVfYL5oKdV2/026DGMGlhbYJWuO88oM4RcncgoZp0p/rCO7ipiYaxYxWedow==}
     dev: true
 
   /@types/fs-extra/9.0.13:
